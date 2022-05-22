@@ -1,1 +1,1 @@
-# sp20-proj2-starter
+# 한양대학교 로봇공학과 RISK-V 기말과제
